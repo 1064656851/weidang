@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+a:1:{i:0;a:25:{s:2:"id";i:34;s:7:"user_id";i:1;s:10:"channel_id";i:6;s:8:"model_id";i:1;s:10:"special_id";i:0;s:5:"title";s:56:"Leap Motion AR头显看起来很疯狂但可能是奇迹";s:5:"style";s:0:"";s:4:"flag";s:3:"top";s:5:"image";s:61:"https://cdn.fastadmin.net/uploads/20180416/5ad44129495250.jpg";s:8:"seotitle";s:0:"";s:8:"keywords";s:0:"";s:11:"description";s:283:"本周我们正在研究Leap Motion为增强现实带来的新东西。我们已经看到他们之前创造了一些令人难以置信的技术，尤其是当涉及到运动跟踪和控制时。现在看起来他们认为他们是以面向优先的方式进入AR增强现实世界。";s:4:"tags";s:12:"AR,互联网";s:5:"weigh";i:0;s:5:"views";i:7000;s:8:"comments";i:3;s:5:"likes";i:70;s:8:"dislikes";i:0;s:7:"diyname";s:0:"";s:10:"createtime";i:1523895990;s:10:"updatetime";i:1553993106;s:11:"publishtime";i:1523894400;s:10:"deletetime";N;s:4:"memo";s:0:"";s:6:"status";s:6:"normal";}}

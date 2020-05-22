@@ -1,0 +1,34 @@
+
+			body{margin: 0;font-size: 0.16rem;color: #8d97a1;}
+			ul li{list-style: none;}
+			i{font-style: normal;}
+			html{font-size: 100px;}
+			
+			#Development_platform .head{width: 14.42rem;height: 0.65rem;border-bottom: 2px solid #f7f8ff;}
+			#Development_platform .head img{width: 3.5rem;height: 0.6rem;margin-left: 1.1rem;float: left;margin-right: 3rem;}
+			#Development_platform .head ul{float: left;margin: 0;padding: 0;}
+			#Development_platform .head ul li{float: left;margin-right: 0.3rem;line-height: 0.65rem;}
+			#Development_platform .head .head_li_hover{border-bottom: 2px solid #3c66f1;}
+			#Development_platform .head .head_login{margin-right: 1.2rem;}
+			#Development_platform .head .head_login span{color: #3c66f1;line-height: 0.65rem;}
+			
+			#Development_platform .center{width: 14.42rem;height: 12.3rem;position: relative;}
+			#Development_platform .center .center_banner img{width: 6.1rem;height: 6.5rem;position: absolute;right: 0;top: 0;}
+			#Development_platform .center .center_banner .center_banner_msg{ float: left;width: 4.65rem;height: 2.2rem;margin-left: 1.1rem;margin-top: 2.7rem;}
+			#Development_platform .center_banner_msg .center_banner_msg_introduce{color: #3964f0;}
+			#Development_platform .center_banner_msg_become{width: 1.55rem;height: 0.5rem;color: #3964f0;background: #e6effe;text-align: center;line-height: 0.5rem;border-radius: 0.1rem;}
+			#Development_platform .center_banner_content{height: 5.8rem;width: 14.42rem;position: absolute;bottom: 0;left: 0;}
+			#Development_platform .center_banner_content_first{width: 3.2rem;height: 3.3rem;box-shadow: #efedfa 5px 5px 5px 5px;background: #fff;border-radius: 0.1rem;margin: 0.2rem;position: relative;}
+			#Development_platform .center_banner_content_warp{width: 11.36rem;height: 3.7rem;margin: auto;margin-top: 1.4rem;}
+			#Development_platform .center_banner_content_warp div{float: left;}
+			#Development_platform .center_banner_content .center_banner_content_first img{width:2.5rem ;height: 2.55rem;margin: 0.2rem 0.4rem;}
+			#Development_platform .center_banner_content_first_btn{width: 0.1rem;height: 0.35rem;text-align: center;line-height: 0.35rem;position: absolute;bottom: 0.4rem;left: 0.4rem;color: #281bc8;border: 1px solid #281bc8;}
+			#Development_platform .center_banner_content_last{width: 3.54rem;height: 3.66rem;margin-top: 0;background: #2a1fc9;box-shadow: none;}
+			#Development_platform .center_banner_content_last .center_banner_content_first_btn{background: #FFF;}
+			
+			.foot{height: 1.25rem;width: 12.22rem;border-top: 1px solid #e6effe;padding: 0.3rem 0;margin: auto;}
+			.foot ul{margin: auto;padding: 0;margin-left: 3.3rem;}
+			
+			.foot ul li{float: left;margin: 0.2rem;font-size: 0.16rem;}
+			.foot p{margin: 0.4rem auto;text-align: center;}
+	

@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+a:1:{i:0;a:25:{s:2:"id";i:16;s:7:"user_id";i:1;s:10:"channel_id";i:4;s:8:"model_id";i:1;s:10:"special_id";i:0;s:5:"title";s:57:"GitHub 安全警告计划已检测出 400 多万个漏洞";s:5:"style";s:0:"";s:4:"flag";s:0:"";s:5:"image";s:61:"https://cdn.fastadmin.net/uploads/20180416/5ad4411db71750.png";s:8:"seotitle";s:0:"";s:8:"keywords";s:0:"";s:11:"description";s:317:"Github 去年推出的安全警告，极大减少了开发人员消除 Ruby 和 JavaScript 项目漏洞的时间。GitHub 安全警告服务，可以搜索依赖寻找已知漏洞然后通过开发者，以便帮助开发者尽可能快的打上补丁修复漏洞，消除有漏洞的依赖或者转到安全版本。";s:4:"tags";s:16:"互联网,安全";s:5:"weigh";i:0;s:5:"views";i:6792;s:8:"comments";i:0;s:5:"likes";i:70;s:8:"dislikes";i:0;s:7:"diyname";s:0:"";s:10:"createtime";i:1523721095;s:10:"updatetime";i:1523878887;s:11:"publishtime";i:1523635200;s:10:"deletetime";N;s:4:"memo";s:0:"";s:6:"status";s:6:"normal";}}

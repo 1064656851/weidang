@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+a:1:{i:0;a:25:{s:2:"id";i:33;s:7:"user_id";i:1;s:10:"channel_id";i:3;s:8:"model_id";i:1;s:10:"special_id";i:0;s:5:"title";s:52:"GitHub 去年为漏洞支付了 16.6 万美元赏金";s:5:"style";s:0:"";s:4:"flag";s:0:"";s:5:"image";s:61:"https://cdn.fastadmin.net/uploads/20180416/5ad4412a798700.jpg";s:8:"seotitle";s:0:"";s:8:"keywords";s:0:"";s:11:"description";s:468:"据外媒报道，去年，GitHub 向安全研究人员支付了总计 166495 美元的奖励，针对 GitHub 这个为期四年的“漏洞赏金”项目，安全研究人员会上报自己发现的系统问题和漏洞。2016 年，GitHub 一共支付了81.7万美元，而去年的支出总额显然已经翻了一倍多，几乎相当于前三年的总支出（17.7万美元）。在 2014 和 2015 两年时间里，他们一共支付了95.3万美元的奖金。";s:4:"tags";s:16:"互联网,安全";s:5:"weigh";i:0;s:5:"views";i:6833;s:8:"comments";i:0;s:5:"likes";i:225;s:8:"dislikes";i:1;s:7:"diyname";s:0:"";s:10:"createtime";i:1523895893;s:10:"updatetime";i:1523895893;s:11:"publishtime";i:1523894400;s:10:"deletetime";N;s:4:"memo";s:0:"";s:6:"status";s:6:"normal";}}

@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+a:1:{i:0;a:25:{s:2:"id";i:1;s:7:"user_id";i:1;s:10:"channel_id";i:6;s:8:"model_id";i:1;s:10:"special_id";i:0;s:5:"title";s:51:"驰为发布HiGame迷你PC新品 小身材大能量";s:5:"style";s:9:"b|u|#fast";s:4:"flag";s:9:"recommend";s:5:"image";s:61:"https://cdn.fastadmin.net/uploads/20180416/5ad4412814b010.jpg";s:8:"seotitle";s:0:"";s:8:"keywords";s:23:"驰为,笔记本,HiGame";s:11:"description";s:351:"说到驰为（Chuwi），很多人第一时间想到的就是该公司的 Windows 笔记本或 Android 平板电脑。但是最近，该厂家又凭借 HiGame 子品牌进军了迷你游戏 PC 市场。作为一款迷你 PC，它的三围只有 17.3×15.8×7.3 CM（约 7×6×3 英寸）。即便如此，它的硬件配置也让我们眼前一亮。";s:4:"tags";s:16:"HiGame,PC,驰为";s:5:"weigh";i:0;s:5:"views";i:7427;s:8:"comments";i:0;s:5:"likes";i:83;s:8:"dislikes";i:0;s:7:"diyname";s:0:"";s:10:"createtime";i:1523718809;s:10:"updatetime";i:1553760136;s:11:"publishtime";i:1523635200;s:10:"deletetime";N;s:4:"memo";s:0:"";s:6:"status";s:6:"normal";}}

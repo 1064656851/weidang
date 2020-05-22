@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+a:1:{i:0;a:25:{s:2:"id";i:13;s:7:"user_id";i:1;s:10:"channel_id";i:5;s:8:"model_id";i:1;s:10:"special_id";i:0;s:5:"title";s:73:"映泰Z390GT5主板手册曝光 英特尔Z390芯片组或即将到来 当";s:5:"style";s:0:"";s:4:"flag";s:0:"";s:5:"image";s:61:"https://cdn.fastadmin.net/uploads/20180416/5ad4411ecab1c0.jpg";s:8:"seotitle";s:0:"";s:8:"keywords";s:0:"";s:11:"description";s:515:"当英特尔上周推出更多更多 Coffee Lake CPU 和配套主板时，传说中的 Z390 芯片组却意外缺席了。不过有眼尖的人们发现，主板厂商映泰（Biostar）在自家 B360 Racing GT5 手册中，竟然清楚地列明了另一款名叫“Z390GT5”主板的存在。作为一个二线品牌，映泰的产品主打平价而不是古怪的设计。不过它与现有的 Z370 系列没有太大差别，而且最高支持的 CPU TDP 也仅为 95W，刚好够酷睿 i7-8700K 使用而已。";s:4:"tags";s:12:"智能设备";s:5:"weigh";i:0;s:5:"views";i:3607;s:8:"comments";i:0;s:5:"likes";i:44;s:8:"dislikes";i:0;s:7:"diyname";s:0:"";s:10:"createtime";i:1523720694;s:10:"updatetime";i:1523878951;s:11:"publishtime";i:1523635200;s:10:"deletetime";N;s:4:"memo";s:0:"";s:6:"status";s:6:"normal";}}

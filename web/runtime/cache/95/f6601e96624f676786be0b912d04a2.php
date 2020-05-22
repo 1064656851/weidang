@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+a:1:{i:0;a:25:{s:2:"id";i:2;s:7:"user_id";i:1;s:10:"channel_id";i:6;s:8:"model_id";i:1;s:10:"special_id";i:0;s:5:"title";s:53:"宏碁Chromebox CXI3迷你台式机现已开放预定";s:5:"style";s:0:"";s:4:"flag";s:0:"";s:5:"image";s:61:"https://cdn.fastadmin.net/uploads/20180416/5ad44127cc3810.jpg";s:8:"seotitle";s:0:"";s:8:"keywords";s:16:"宏基,台式机";s:11:"description";s:367:"今年 1 月的时候，宏碁（Acer）发布了多款新产品，其中就包括 Chromebox CXI3 。与 Chromebook 笔记本不同，Chromebox CXI3 是一款运行 Chrome OS 的小型台式机。不占地方，显然是它的最大卖点，用户甚至可以将它背挂到显示器后面。如果你想要拥有一台，那么现在宏碁也已经开放预定了。";s:4:"tags";s:26:"Chromebox,台式机,宏基";s:5:"weigh";i:0;s:5:"views";i:1353;s:8:"comments";i:0;s:5:"likes";i:258;s:8:"dislikes";i:0;s:7:"diyname";s:0:"";s:10:"createtime";i:1523718936;s:10:"updatetime";i:1523879158;s:11:"publishtime";i:1523635200;s:10:"deletetime";N;s:4:"memo";s:0:"";s:6:"status";s:6:"normal";}}

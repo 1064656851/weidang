@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+a:1:{i:0;a:25:{s:2:"id";i:3;s:7:"user_id";i:1;s:10:"channel_id";i:6;s:8:"model_id";i:1;s:10:"special_id";i:0;s:5:"title";s:49:"Misfit最新的混合动力手表Path现已上市";s:5:"style";s:0:"";s:4:"flag";s:9:"recommend";s:5:"image";s:61:"https://cdn.fastadmin.net/uploads/20180416/5ad44125f364e0.png";s:8:"seotitle";s:0:"";s:8:"keywords";s:19:"手表,混合动力";s:11:"description";s:384:"Misfit的混合动力手表今天通过公司网站发售。它的售价为149.99美元，将有四种颜色可供选择：不锈钢，玫瑰金，黄金和带金色调的不锈钢。该公司首先在CES首次推出手表，在那里我们看到了这款小巧的新设备。这是该公司最小的手表 -  38毫米 - 并没有触摸屏，但它通过蓝牙与智能手机配对。";s:4:"tags";s:25:"智能手表,混合动力";s:5:"weigh";i:0;s:5:"views";i:8943;s:8:"comments";i:0;s:5:"likes";i:267;s:8:"dislikes";i:0;s:7:"diyname";s:0:"";s:10:"createtime";i:1523719020;s:10:"updatetime";i:1523879142;s:11:"publishtime";i:1523635200;s:10:"deletetime";N;s:4:"memo";s:0:"";s:6:"status";s:6:"normal";}}
